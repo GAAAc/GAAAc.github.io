@@ -1,5 +1,4 @@
-<meta charset="UTF-8">
-<script>
+﻿<script>
 //Функция генерации случайной буквы из переданного в нее массива букв
     function getLetter(arr){
         return arr[Math.floor(Math.random()*arr.length)];
